@@ -1,0 +1,1 @@
+This directory is where the DIRB and NMAP installs belong, should you wish to configure things this way.
